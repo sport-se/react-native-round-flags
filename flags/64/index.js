@@ -244,3 +244,7 @@ export const ZR = require('./ZR.png');
 export const ZW = require('./ZW.png');
 export const unknown = require('./_unknown.png');
 export const england = require('./_england.png');
+export const international = require('./_international.png');
+export const northernireland = require('./_northernireland.png');
+export const scotland = require('./_scotland.png');
+export const wales = require('./_wales.png');
